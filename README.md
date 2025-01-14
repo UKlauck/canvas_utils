@@ -19,3 +19,6 @@ Then install the api
 ```bash
 # Install the library 
 pip install .
+````
+
+You must create a file named canvas.conf in a directory named .canvasctl under your home directory. See example.
